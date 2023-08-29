@@ -9,3 +9,4 @@
 - Once it validate, will redirect to our dashboard/home page
 - To test scinarios with component level, feature level we can use RTL or Enzyme test libabries with Jest test framework
 - We will prefer React Testing Library (RTL) with Jest to test all our test cases, because enzyme require more coding and unnecessary accessiblity to DOM.
+
